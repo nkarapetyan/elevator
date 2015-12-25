@@ -1,0 +1,31 @@
+		Elevetor Simulation System
+--------------
+Date: June 2014
+Author: Nare Karapetyan
+
+Overview
+--------
+The following project is a simulation of elevator. The project 
+was implemented within the scope of Object Oriented Analysis and 
+Design course. The software provides very simple UI interface for 
+calling an elevator from the floor and  manipulating it from the cabin. 
+
+Structure
+---------
+bin/ 		-> contains exacutable file
+build/ 		-> contains all generated (moc, ui, object) files
+src/ 		-> source files for core and gui 
+ |-> core/
+ |-> gui/
+include/	-> header files for core and gui
+ |-> core/
+ |-> gui/
+doc/ 		-> contains all design and use case related documentation
+
+Documentation
+-------------
+The documentation contains UML design of the system and detailed description of system's use cases.
+
+Licensing
+---------
+The software is distributed under GPL license.
